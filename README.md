@@ -20,4 +20,4 @@ http://www.juthawong.com/donate
 
 #Credit 
 Robomatics on Youtube for teaching us how to build using emgucv
-EmguCV for making this happen
+and EmguCV for making this happen
