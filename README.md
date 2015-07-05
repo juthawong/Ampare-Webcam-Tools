@@ -1,6 +1,9 @@
 # Ampare-Webcam-Tools
 A Simple Fun Easy to Use Webcam Tools to take picture and record video for free
 
+#Download Full Released
+
+File is very large so I upload only one site : https://sourceforge.net/projects/webcamtools/files/1.0.0.1/
 
 #Help
 Might Encounter Bugs : Video Codec not found. Currently we use DIVx MP4 Codec on Windows
