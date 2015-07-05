@@ -17,3 +17,7 @@ We built many softwre some are serious some are for fun for you to use for free.
 to help us continuously develop great software in future 
 
 http://www.juthawong.com/donate
+
+#Credit 
+Robomatics on Youtube for teaching us how to build using emgucv
+EmguCV for making this happen
