@@ -6,6 +6,9 @@ A Simple Fun Easy to Use Webcam Tools to take picture and record video for free
 Might Encounter Bugs : Video Codec not found. Currently we use DIVx MP4 Codec on Windows
 If it said not found. You might have to find driver and software to install
 
+#Take Picture Bugs
+The Picture will take after you click save image
+
 #More Software
 You can browse our github for more software : https://github.com/juthawong
 
